@@ -42,3 +42,6 @@ export const prisma =
 
 if (process.env.NODE_ENV !== 'production') globalForPrisma.prisma = prisma
 ```
+
+- [Langchain](https://js.langchain.com/docs/get_started/introduction) is the number one framework for using AI or LLMs. It is like an SDK for LLMs.
+- Temperature = 0 more factual, = 1 more creative
